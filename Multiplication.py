@@ -1,6 +1,6 @@
 print("****Multiplication****")
 
-# Getting input from user
+# Getting the inputs from user
 
 a = int(input("\nEnter the 1st number: "))
 b = int(input("Enter the 2nd number: "))
