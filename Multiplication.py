@@ -10,7 +10,7 @@ b = int(input("Enter the 2nd number: "))
 print("\nnumber 1: ",a)
 print("number 2: ",b)
 
-# Defining the multiply function
+# Defining the multiply function 
 
 def multiply(a,b):
         print("\nMultiplication of both numbers is: ",a*b)
@@ -18,3 +18,5 @@ def multiply(a,b):
 # Calling the function
 
 multiply(a,b)
+
+print("\n**** END ****")
